@@ -1,0 +1,6 @@
+.App-header {
+  background: url(./images/Backgroundimg.jpg);
+  background-size: cover;
+  min-height: 100vh;
+  color: white;
+}
